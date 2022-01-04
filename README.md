@@ -1,7 +1,7 @@
 # Connect_3_Game
 
 
-**Connect 3 Game** is a small for Android system.
+**Connect 3 Game** is a small game for Android system.
 Submitted by: **Lu He**
 Time spent: **2** hours spent in total
 
